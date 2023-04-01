@@ -9,140 +9,15 @@
   </author>
   <logo>https://mengpf.github.io/logo.svg</logo>
   <rights>Copyright by 彼岸星辰beta</rights>
-  <updated>2023-04-01T17:55:07.341Z</updated>
+  <updated>2023-04-01T18:00:35.589Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://mengpf.github.io/atom.xml"/>
   <link rel="alternate" href="https://mengpf.github.io/"/>
-  <category term="使用指南"/>
   <category term="碎碎念"/>
   <contributor>
     <name>彼岸星辰beta</name>
     <uri>https://bilishe.com</uri>
   </contributor>
-  <contributor>
-    <name>Ms.Hope</name>
-  </contributor>
-  <entry>
-    <title type="text">关于我</title>
-    <id>https://mengpf.github.io/intro.html</id>
-    <link href="https://mengpf.github.io/intro.html"/>
-    <updated>2023-04-01T17:53:16.000Z</updated>
-    <summary type="html"><![CDATA[<h1> 关于我</h1>
-<p>这个人很懒，但是这不是没有写个人介绍的原因。</p>
-]]></summary>
-    <content type="html"><![CDATA[<h1> 关于我</h1>
-<p>这个人很懒，但是这不是没有写个人介绍的原因。</p>
-]]></content>
-    <author>
-      <name>彼岸星辰beta</name>
-      <uri>https://bilishe.com</uri>
-    </author>
-    <contributor>
-      <name>彼岸星辰beta</name>
-      <uri>https://bilishe.com</uri>
-    </contributor>
-    <published>2023-03-21T12:10:52.000Z</published>
-    <rights>Copyright by 彼岸星辰beta</rights>
-  </entry>
-  <entry>
-    <title type="text">友情链接</title>
-    <id>https://mengpf.github.io/links.html</id>
-    <link href="https://mengpf.github.io/links.html"/>
-    <updated>2023-04-01T17:53:16.000Z</updated>
-    <summary type="html"><![CDATA[<p>##友情链接列表</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>##友情链接列表</p>
-]]></content>
-    <author>
-      <name>彼岸星辰beta</name>
-      <uri>https://bilishe.com</uri>
-    </author>
-    <contributor>
-      <name>彼岸星辰beta</name>
-      <uri>https://bilishe.com</uri>
-    </contributor>
-    <published>2023-03-21T12:10:52.000Z</published>
-    <rights>Copyright by 彼岸星辰beta</rights>
-  </entry>
-  <entry>
-    <title type="text">幻灯片页</title>
-    <id>https://mengpf.github.io/slides.html</id>
-    <link href="https://mengpf.github.io/slides.html"/>
-    <updated>2023-04-01T17:53:16.000Z</updated>
-    <summary type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
-]]></summary>
-    <content type="html"><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
-]]></content>
-    <author>
-      <name>彼岸星辰beta</name>
-      <uri>https://bilishe.com</uri>
-    </author>
-    <contributor>
-      <name>彼岸星辰beta</name>
-      <uri>https://bilishe.com</uri>
-    </contributor>
-    <published>2023-03-21T12:10:52.000Z</published>
-    <rights>Copyright by 彼岸星辰beta</rights>
-  </entry>
-  <entry>
-    <title type="text">页面配置</title>
-    <id>https://mengpf.github.io/demo/page.html</id>
-    <link href="https://mengpf.github.io/demo/page.html"/>
-    <updated>2023-04-01T17:53:16.000Z</updated>
-    <summary type="html"><![CDATA[<p><code>more</code> 注释之前的内容被视为文章摘要。</p>
-]]></summary>
-    <content type="html"><![CDATA[<p><code>more</code> 注释之前的内容被视为文章摘要。</p>
-<!-- more -->
-<h2> 页面信息</h2>
-<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
-<ul>
-<li>作者设置为 Ms.Hope。</li>
-<li>写作日期为 2020 年 1 月 1 日</li>
-<li>分类为 “使用指南”</li>
-<li>标签为 “页面配置” 和 “使用指南”</li>
-</ul>
-<h2> 页面内容</h2>
-<p>你可以自由在这里书写你的 Markdown。</p>
-<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<ul>
-<li>
-<p>你可以将图片和 Markdown 文件放置在一起，但是你需要使用<strong>相对链接</strong><code>./</code> 进行引用。</p>
-</li>
-<li>
-<p>对于 <code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用。</p>
-</li>
-</ul>
-</div>
-<p>主题包含了一个自定义徽章可以使用:</p>
-<blockquote>
-<p>文字结尾应该有深蓝色的 徽章文字 徽章。 </p>
-</blockquote>
-<h2> 页面结构</h2>
-<p>此页面应当包含:</p>
-<ul>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/breadcrumb.html" target="_blank" rel="noopener noreferrer">路径导航</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/feature/page-info.html" target="_blank" rel="noopener noreferrer">标题和页面信息</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/page.html#%E6%A0%87%E9%A2%98%E5%88%97%E8%A1%A8" target="_blank" rel="noopener noreferrer">TOC (文章标题列表)</a></li>
-<li><a href="https://theme-hope.vuejs.press/guide/feature/meta.html" target="_blank" rel="noopener noreferrer">贡献者、更新时间等页面元信息</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/feature/comment.html" target="_blank" rel="noopener noreferrer">评论</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/navbar.html" target="_blank" rel="noopener noreferrer">导航栏</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html" target="_blank" rel="noopener noreferrer">侧边栏</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/footer.html" target="_blank" rel="noopener noreferrer">页脚</a></li>
-<li>返回顶部按钮</li>
-</ul>
-<p>你可以通过主题选项和页面 Frontmatter 自定义它们。</p>
-]]></content>
-    <author>
-      <name>Ms.Hope</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>Ms.Hope</name>
-    </contributor>
-    <published>2020-01-01T00:00:00.000Z</published>
-    <rights>无版权</rights>
-  </entry>
   <entry>
     <title type="text">再次起航</title>
     <id>https://mengpf.github.io/posts/start.html</id>

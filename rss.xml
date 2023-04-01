@@ -6,8 +6,8 @@
     <link>https://mengpf.github.io/</link>
     <description>彼岸星辰beta的博客</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 01 Apr 2023 17:55:07 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Apr 2023 17:55:07 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Apr 2023 18:00:35 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Apr 2023 18:00:35 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 彼岸星辰beta</copyright>
@@ -16,91 +16,7 @@
       <url>https://mengpf.github.io/logo.svg</url>
       <link>https://mengpf.github.io/</link>
     </image>
-    <category>使用指南</category>
     <category>碎碎念</category>
-    <item>
-      <title>关于我</title>
-      <link>https://mengpf.github.io/intro.html</link>
-      <guid>https://mengpf.github.io/intro.html</guid>
-      <source url="https://mengpf.github.io/rss.xml">关于我</source>
-      <description>关于我 这个人很懒，但是这不是没有写个人介绍的原因。</description>
-      <pubDate>Tue, 21 Mar 2023 12:10:52 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 关于我</h1>
-<p>这个人很懒，但是这不是没有写个人介绍的原因。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>友情链接</title>
-      <link>https://mengpf.github.io/links.html</link>
-      <guid>https://mengpf.github.io/links.html</guid>
-      <source url="https://mengpf.github.io/rss.xml">友情链接</source>
-      <description>##友情链接列表</description>
-      <pubDate>Tue, 21 Mar 2023 12:10:52 GMT</pubDate>
-      <content:encoded><![CDATA[<p>##友情链接列表</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>幻灯片页</title>
-      <link>https://mengpf.github.io/slides.html</link>
-      <guid>https://mengpf.github.io/slides.html</guid>
-      <source url="https://mengpf.github.io/rss.xml">幻灯片页</source>
-      <description>slidestart 幻灯片演示 一个简单的幻灯片演示与各种小贴士。 作者 Mr.Hope. 请滚动鼠标滚轮进入下一页 标注幻灯片 👇 (#/1/1) -- 标注幻灯片 使用 --- 标注水平幻灯片 在水平幻灯片中使用 -- 分割垂直幻灯片 使用 在幻灯片上添加属性 使用 在前一个 HTML 元素上添加属性 Markdown 你可以在幻灯片中使用 M...</description>
-      <pubDate>Tue, 21 Mar 2023 12:10:52 GMT</pubDate>
-      <content:encoded><![CDATA[<!-- markdownlint-disable MD024 MD033 MD051 -->
-]]></content:encoded>
-      <enclosure url="https://mengpf.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>页面配置</title>
-      <link>https://mengpf.github.io/demo/page.html</link>
-      <guid>https://mengpf.github.io/demo/page.html</guid>
-      <source url="https://mengpf.github.io/rss.xml">页面配置</source>
-      <description>more 注释之前的内容被视为文章摘要。</description>
-      <category>使用指南</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p><code>more</code> 注释之前的内容被视为文章摘要。</p>
-<!-- more -->
-<h2> 页面信息</h2>
-<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
-<ul>
-<li>作者设置为 Ms.Hope。</li>
-<li>写作日期为 2020 年 1 月 1 日</li>
-<li>分类为 “使用指南”</li>
-<li>标签为 “页面配置” 和 “使用指南”</li>
-</ul>
-<h2> 页面内容</h2>
-<p>你可以自由在这里书写你的 Markdown。</p>
-<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<ul>
-<li>
-<p>你可以将图片和 Markdown 文件放置在一起，但是你需要使用<strong>相对链接</strong><code>./</code> 进行引用。</p>
-</li>
-<li>
-<p>对于 <code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用。</p>
-</li>
-</ul>
-</div>
-<p>主题包含了一个自定义徽章可以使用:</p>
-<blockquote>
-<p>文字结尾应该有深蓝色的 徽章文字 徽章。 </p>
-</blockquote>
-<h2> 页面结构</h2>
-<p>此页面应当包含:</p>
-<ul>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/breadcrumb.html" target="_blank" rel="noopener noreferrer">路径导航</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/feature/page-info.html" target="_blank" rel="noopener noreferrer">标题和页面信息</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/page.html#%E6%A0%87%E9%A2%98%E5%88%97%E8%A1%A8" target="_blank" rel="noopener noreferrer">TOC (文章标题列表)</a></li>
-<li><a href="https://theme-hope.vuejs.press/guide/feature/meta.html" target="_blank" rel="noopener noreferrer">贡献者、更新时间等页面元信息</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/feature/comment.html" target="_blank" rel="noopener noreferrer">评论</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/navbar.html" target="_blank" rel="noopener noreferrer">导航栏</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html" target="_blank" rel="noopener noreferrer">侧边栏</a></li>
-<li><a href="https://theme-hope.vuejs.press/zh/guide/layout/footer.html" target="_blank" rel="noopener noreferrer">页脚</a></li>
-<li>返回顶部按钮</li>
-</ul>
-<p>你可以通过主题选项和页面 Frontmatter 自定义它们。</p>
-]]></content:encoded>
-    </item>
     <item>
       <title>再次起航</title>
       <link>https://mengpf.github.io/posts/start.html</link>
