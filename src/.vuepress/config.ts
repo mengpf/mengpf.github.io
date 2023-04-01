@@ -7,8 +7,8 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "彼岸星辰beta的Blog",
-      description: "一个有点懒，又没有毅力的人，开始了新一轮的碎碎念。",
+      title: "彼岸星辰beta的博客",
+      description: "彼岸星辰beta的博客",
     },
   },
 
