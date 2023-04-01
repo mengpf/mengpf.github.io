@@ -28,7 +28,7 @@ export default hopeTheme({
       BiliBili: "https://space.bilibili.com/7686927",
       GitHub: "https://github.com/mengpf",
       Email: "mailto:88969189@qq.com",
-      Rss: "https://bilishe.com/rss.xml",
+      Rss: "rss.xml",
     },
   },
 
@@ -90,6 +90,23 @@ export default hopeTheme({
       atom: true,
       json: true,
       rss: true,
+      filter: ({ filePathRelative, frontmatter }) => {
+        // 舍弃那些不是从 Markdown 文件生成的页面
+        if (!filePathRelative) return false
+        // 舍弃demo文件夹的页面
+        if (filePathRelative.startsWith('demo/')) return false
+        // 舍弃links页面
+        if (filePathRelative.startsWith('links.md')) return false
+        // 舍弃intro页面
+        if (filePathRelative.startsWith('intro.md')) return false
+        // 舍弃slides示例页面
+        if (filePathRelative.startsWith('slides.md')) return false
+        // 舍弃所有的README.md页面
+        if (filePathRelative.endsWith('README.md')) return false
+        // 舍弃那些没有使用默认布局的页面
+        if (frontmatter.home || frontmatter.layout) return false
+        return true
+      }
     },
 
     // all features are enabled for demo, only preserve features you need here
