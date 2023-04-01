@@ -1,17 +1,18 @@
 ---
-title: Features Demo
+title: 主要功能与配置演示
+article: false
 index: false
 icon: discover
 category:
-  - Guide
+  - 使用指南
 ---
 
-## Catalog
+## 目录
 
-- [Markdown Enhance](markdown.md)
+- [Markdown 展示](markdown.md)
 
-- [Page Config](page.md)
+- [页面展示](page.md)
 
-- [Function Disable](disable.md)
+- [禁用展示](disable.md)
 
-- [Encryption Demo](encrypt.md)
+- [加密展示，密码"1234"](encrypt.md)

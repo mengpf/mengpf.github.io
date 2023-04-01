@@ -2,10 +2,10 @@
 home: true
 layout: BlogHome
 icon: home
-title: 首页
+title: 博客主页
 heroImage: /logo.svg
-heroText: 彼岸星辰的Blog
-tagline: 有点懒、没毅力、碎碎念
+heroText: 彼岸星辰beta的博客
 heroFullScreen: true
-footer: 没有啥协议，但是转载请注明出处。
+tagline: 一个没有毅力的bloger，和他的碎碎念。
 ---
+
