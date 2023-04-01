@@ -10,16 +10,16 @@ export default hopeTheme({
 
   author: {
     name: "彼岸星辰beta",
-    url: "https://bilishe.com",
+    url: "https://mengpf.github.io",
   },
 
   iconAssets: "iconfont",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "mengpf/mengpf.github.io",
 
-  docsDir: "docs",
+  docsDir: "src",
 
   blog: {
     medias: {
