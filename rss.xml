@@ -6,8 +6,8 @@
     <link>https://mengpf.github.io/</link>
     <description>彼岸星辰beta的博客</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 01 Apr 2023 17:47:43 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Apr 2023 17:47:43 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Apr 2023 17:54:40 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Apr 2023 17:54:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 彼岸星辰beta</copyright>
@@ -353,12 +353,14 @@
       <link>https://mengpf.github.io/posts/start.html</link>
       <guid>https://mengpf.github.io/posts/start.html</guid>
       <source url="https://mengpf.github.io/rss.xml">再次起航</source>
-      <description>起因 我是一个很懒的人，也没有多大的毅力，从一开始接触到博客这个东西到现在大概也十几年时间了，期间断断续续的写了不足两位数的博文，后来就没有后来了。 说到这里，为什么又准备开始写博客呢，就不得不说起博主论坛了，因为论坛刚开，所以Crll为了活跃人气，抽奖抽了好几次，我很幸运，中了这个域名，遂又兴起了写写博客的念头。 选择 既然要写博客，那选择哪个博客程序是绕不过的一个事情。 从最初用的PHP博客程序 typecho、Wordpress，到Ghost、Hugo、hexo等生成静态文件的程序，马马虎虎看了一个遍，最终还是决定使用生成器，将静态文件托管到GH上，最起码不用额外花钱租用VPS或者虚拟主机。 那就首先排除了PHP，恰巧阳光大佬提到可以通过GH Action去生成文件，遂百度了一下，但是没有选择他推荐的Hexo，而是选择了新兴的Vuepress，具体的安装配置就不做赘述了，毕竟我也是一个小白。</description>
+      <description>重新开始写博客吧。</description>
       <category>碎碎念</category>
       <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> 起因</h3>
+      <content:encoded><![CDATA[<p>重新开始写博客吧。</p>
+<!-- more -->
+<h3> 起因</h3>
 <p>我是一个很懒的人，也没有多大的毅力，从一开始接触到博客这个东西到现在大概也十几年时间了，期间断断续续的写了不足两位数的博文，后来就没有后来了。<br>
-说到这里，为什么又准备开始写博客呢，就不得不说起<a href="https://bzlt.net" target="_blank" rel="noopener noreferrer">博主论坛</a>了，因为论坛刚开，所以Crll为了活跃人气，抽奖抽了好几次，我很幸运，中了这个域名，遂又兴起了写写博客的念头。</p>
+说到这里，为什么又准备开始写博客呢，就不得不说起博主论坛了，因为论坛刚开，所以Crll为了活跃人气，抽奖抽了好几次，我很幸运，中了这个域名，遂又兴起了写写博客的念头。</p>
 <h3> 选择</h3>
 <p>既然要写博客，那选择哪个博客程序是绕不过的一个事情。<br>
 从最初用的PHP博客程序 typecho、Wordpress，到Ghost、Hugo、hexo等生成静态文件的程序，马马虎虎看了一个遍，最终还是决定使用生成器，将静态文件托管到GH上，最起码不用额外花钱租用VPS或者虚拟主机。<br>
