@@ -1,1 +1,0 @@
-import{_ as t,W as s,X as a,Y as e,Z as n}from"./framework-a9f5de78.js";const c={},o=e("h2",{id:"友情链接分类1",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#友情链接分类1","aria-hidden":"true"},"#"),n(" 友情链接分类1")],-1),r=e("p",null,"待添加",-1),_=[o,r];function d(i,l){return s(),a("div",null,_)}const f=t(c,[["render",d],["__file","links.html.vue"]]);export{f as default};

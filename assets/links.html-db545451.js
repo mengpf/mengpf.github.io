@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as s,Y as n}from"./framework-a9f5de78.js";const _={},c=n("p",null,"##友情链接列表",-1),o=[c];function l(r,a){return t(),s("div",null,o)}const d=e(_,[["render",l],["__file","links.html.vue"]]);export{d as default};
