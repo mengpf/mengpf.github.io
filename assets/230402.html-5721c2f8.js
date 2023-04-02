@@ -1,0 +1,1 @@
+import{_ as e,W as t,X as _,Y as s}from"./framework-a9f5de78.js";const c={},o=s("p",null,"主题不会改，就先这样吧。 暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。",-1),n=[o];function a(r,l){return t(),_("div",null,n)}const d=e(c,[["render",a],["__file","230402.html.vue"]]);export{d as default};

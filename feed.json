@@ -13,6 +13,24 @@
   ],
   "items": [
     {
+      "title": "抽个空把域名绑了",
+      "url": "https://mengpf.github.io/posts/230402.html",
+      "id": "https://mengpf.github.io/posts/230402.html",
+      "summary": "主题不会改，就先这样吧。 暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。",
+      "content_html": "<p>主题不会改，就先这样吧。  暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。</p>\n",
+      "date_published": "2023-04-02T00:00:00.000Z",
+      "date_modified": "2023-04-02T06:12:46.000Z",
+      "authors": [
+        {
+          "name": "彼岸星辰beta",
+          "url": "https://mengpf.github.io"
+        }
+      ],
+      "tags": [
+        "碎碎念"
+      ]
+    },
+    {
       "title": "再次起航",
       "url": "https://mengpf.github.io/posts/start.html",
       "id": "https://mengpf.github.io/posts/start.html",

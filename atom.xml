@@ -9,7 +9,7 @@
   </author>
   <logo>https://mengpf.github.io/logo.svg</logo>
   <rights>Copyright by 彼岸星辰beta</rights>
-  <updated>2023-04-02T05:50:54.080Z</updated>
+  <updated>2023-04-02T06:14:33.537Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://mengpf.github.io/atom.xml"/>
   <link rel="alternate" href="https://mengpf.github.io/"/>
@@ -18,6 +18,27 @@
     <name>彼岸星辰beta</name>
     <uri>https://mengpf.github.io</uri>
   </contributor>
+  <entry>
+    <title type="text">抽个空把域名绑了</title>
+    <id>https://mengpf.github.io/posts/230402.html</id>
+    <link href="https://mengpf.github.io/posts/230402.html"/>
+    <updated>2023-04-02T06:12:46.000Z</updated>
+    <summary type="html"><![CDATA[<p>主题不会改，就先这样吧。  暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>主题不会改，就先这样吧。  暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。</p>
+]]></content>
+    <author>
+      <name>彼岸星辰beta</name>
+      <uri>https://mengpf.github.io</uri>
+    </author>
+    <category term="碎碎念"/>
+    <contributor>
+      <name>彼岸星辰beta</name>
+      <uri>https://mengpf.github.io</uri>
+    </contributor>
+    <published>2023-04-02T00:00:00.000Z</published>
+    <rights>Copyright by 彼岸星辰beta</rights>
+  </entry>
   <entry>
     <title type="text">再次起航</title>
     <id>https://mengpf.github.io/posts/start.html</id>

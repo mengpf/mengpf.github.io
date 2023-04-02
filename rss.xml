@@ -6,8 +6,8 @@
     <link>https://mengpf.github.io/</link>
     <description>彼岸星辰beta的博客</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 02 Apr 2023 05:50:54 GMT</pubDate>
-    <lastBuildDate>Sun, 02 Apr 2023 05:50:54 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Apr 2023 06:14:33 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Apr 2023 06:14:33 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 彼岸星辰beta</copyright>
@@ -17,6 +17,17 @@
       <link>https://mengpf.github.io/</link>
     </image>
     <category>碎碎念</category>
+    <item>
+      <title>抽个空把域名绑了</title>
+      <link>https://mengpf.github.io/posts/230402.html</link>
+      <guid>https://mengpf.github.io/posts/230402.html</guid>
+      <source url="https://mengpf.github.io/rss.xml">抽个空把域名绑了</source>
+      <description>主题不会改，就先这样吧。 暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。</description>
+      <category>碎碎念</category>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>主题不会改，就先这样吧。  暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>再次起航</title>
       <link>https://mengpf.github.io/posts/start.html</link>
