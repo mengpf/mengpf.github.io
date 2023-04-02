@@ -6,8 +6,8 @@
     <link>https://mengpf.github.io/</link>
     <description>彼岸星辰beta的博客</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 02 Apr 2023 06:14:33 GMT</pubDate>
-    <lastBuildDate>Sun, 02 Apr 2023 06:14:33 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Apr 2023 06:54:16 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Apr 2023 06:54:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by 彼岸星辰beta</copyright>
@@ -22,10 +22,13 @@
       <link>https://mengpf.github.io/posts/230402.html</link>
       <guid>https://mengpf.github.io/posts/230402.html</guid>
       <source url="https://mengpf.github.io/rss.xml">抽个空把域名绑了</source>
-      <description>主题不会改，就先这样吧。 暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。</description>
+      <description>主题不会改，就先这样吧。 个人介绍、友情链接页面也得完善。 评论要不要开，用现成的还是自己搭建。 还有域名绑定，暂时先放在gitpages，抽个空把域名绑了，还有域名转移或者续费的事，想写个博客一堆破事啊。</description>
       <category>碎碎念</category>
       <pubDate>Sun, 02 Apr 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>主题不会改，就先这样吧。  暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。</p>
+      <content:encoded><![CDATA[<p>主题不会改，就先这样吧。<br>
+个人介绍、友情链接页面也得完善。<br>
+评论要不要开，用现成的还是自己搭建。<br>
+还有域名绑定，暂时先放在gitpages，抽个空把域名绑了，还有域名转移或者续费的事，想写个博客一堆破事啊。</p>
 ]]></content:encoded>
     </item>
     <item>

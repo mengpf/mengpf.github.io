@@ -9,7 +9,7 @@
   </author>
   <logo>https://mengpf.github.io/logo.svg</logo>
   <rights>Copyright by 彼岸星辰beta</rights>
-  <updated>2023-04-02T06:14:33.537Z</updated>
+  <updated>2023-04-02T06:54:16.404Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://mengpf.github.io/atom.xml"/>
   <link rel="alternate" href="https://mengpf.github.io/"/>
@@ -22,10 +22,16 @@
     <title type="text">抽个空把域名绑了</title>
     <id>https://mengpf.github.io/posts/230402.html</id>
     <link href="https://mengpf.github.io/posts/230402.html"/>
-    <updated>2023-04-02T06:12:46.000Z</updated>
-    <summary type="html"><![CDATA[<p>主题不会改，就先这样吧。  暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。</p>
+    <updated>2023-04-02T06:52:24.000Z</updated>
+    <summary type="html"><![CDATA[<p>主题不会改，就先这样吧。<br>
+个人介绍、友情链接页面也得完善。<br>
+评论要不要开，用现成的还是自己搭建。<br>
+还有域名绑定，暂时先放在gitpages，抽个空把域名绑了，还有域名转移或者续费的事，想写个博客一堆破事啊。</p>
 ]]></summary>
-    <content type="html"><![CDATA[<p>主题不会改，就先这样吧。  暂时先放在gitpages，抽个空把域名绑了，还有域名转移护着续费的事，想写个博客一堆破事啊。</p>
+    <content type="html"><![CDATA[<p>主题不会改，就先这样吧。<br>
+个人介绍、友情链接页面也得完善。<br>
+评论要不要开，用现成的还是自己搭建。<br>
+还有域名绑定，暂时先放在gitpages，抽个空把域名绑了，还有域名转移或者续费的事，想写个博客一堆破事啊。</p>
 ]]></content>
     <author>
       <name>彼岸星辰beta</name>
