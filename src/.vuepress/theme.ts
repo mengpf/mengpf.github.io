@@ -84,6 +84,11 @@ export default hopeTheme({
         return true
       }
     },
+    
+    comment: {
+      provider: "Waline",
+      serverURL: "https://mengpf.zeabur.app",
+    },
 
     // Feed 插件配置
     feed: {
