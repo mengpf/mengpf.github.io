@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { componentsPlugin } from "vuepress-plugin-components";
 
 export default defineUserConfig({
   base: "/",
@@ -13,6 +14,16 @@ export default defineUserConfig({
   },
 
   theme,
+
+  plugins: [
+    componentsPlugin({
+      components: [
+        "ArtPlayer",
+        "BiliBili",
+        "Share",
+      ],
+    }),
+  ],
 
   // Enable it with pwa
   // shouldPrefetch: false,
